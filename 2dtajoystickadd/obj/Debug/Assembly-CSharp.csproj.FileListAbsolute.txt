@@ -1,2 +1,0 @@
-C:\Users\taku2\Desktop\2dta\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
-C:\Users\taku2\Desktop\2dta\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
